@@ -3,7 +3,7 @@
 
 
 Since this was a backend project, I worked with Postman to visualize the data and endpoint requests.
-
+\n
 
 
 For example, here is a screenshot of a successful GET request of all the values in the database:
