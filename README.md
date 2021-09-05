@@ -2,6 +2,11 @@
 .NET backend project where REST API is created that can successfully perform HTTP methods on SQL database containing list of command line commands
 
 
+The essence of this project was to create a Model/Controller architecture as shown in this image:
+![api_architecture](https://user-images.githubusercontent.com/63143129/132111472-b3cc50c4-066c-4f74-9d0c-98f2ca5dd5cc.PNG)
+
+
+
 Since this was a backend project, I worked with Postman to visualize the data and endpoint requests.
 
 
@@ -20,5 +25,4 @@ This screenshot is a corresponding image of the local database I used with its d
 
 
 
-The essence of this project was to create a Model/Controller architecture as shown in this image:
-![api_architecture](https://user-images.githubusercontent.com/63143129/132111472-b3cc50c4-066c-4f74-9d0c-98f2ca5dd5cc.PNG)
+
