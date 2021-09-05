@@ -1,5 +1,7 @@
 # Command-Lines-REST-API
 .NET backend project where REST API is created that can successfully perform HTTP methods on SQL database containing list of command line commands
+-it was able to complete requests from all six endpoints(GET,PUT,PATCH,etc.)
+-was built on C# and Microsoft .NET dependencies
 
 
 The essence of this project was to create a Model/Controller architecture as shown in this image:
